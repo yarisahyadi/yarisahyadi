@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, you can call me Yaris
+- 👀 I’m interested in cloud and DevOps
+- 🌱 I’m currently pursuing an engineering degree in college
+- 💞️ I’m looking to collaborate on software development field especially devops
+- 📫 How to reach me: m.yarisahyadi@gmail.com
